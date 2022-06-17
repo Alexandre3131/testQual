@@ -1,7 +1,3 @@
-package eraser;
-
-public class Eraser {
-
 	/**
 	 * Enleve les espaces individuels d'une chaine de caracteres.
 	 * Par exemple, "He ll o   you!" devient "Hello   you!"
@@ -31,4 +27,3 @@ public class Eraser {
          *             "(?=[^ ]|$)" non espace ou fin de chaine (sera relu)
          */
     }
-}
